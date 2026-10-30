@@ -1,0 +1,37 @@
+﻿# Node.js dependencies
+node_modules/
+frontend/node_modules/
+
+# Next.js generated files
+.next/
+frontend/.next/
+out/
+build/
+dist/
+
+# Python generated files and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Logs and caches
+*.log
+.cache/
+.pytest_cache/
+.mypy_cache/
+
+# Backups and temporary exports
+backend_backup/
+data_backup/
+repomix-output.xml
+
+# Operating system files
+.DS_Store
+Thumbs.db

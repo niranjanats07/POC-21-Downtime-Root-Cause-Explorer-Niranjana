@@ -1,0 +1,11 @@
+incident_id,machine_id,incident_date,shift,root_cause,sub_cause,downtime_minutes,failure_frequency,severity,status,description
+INC001,MCH-01,2026-01-05,Morning,Mechanical,Bearing Failure,120,3,High,Closed,Bearing wear caused machine stoppage
+INC002,MCH-02,2026-01-06,Evening,Electrical,Motor Failure,90,2,Medium,Closed,Motor overheating interrupted production
+INC003,MCH-03,2026-01-07,Night,Operational,Operator Error,45,1,Low,Closed,Incorrect machine setup
+INC004,MCH-01,2026-01-08,Morning,Mechanical,Belt Failure,75,2,Medium,Closed,Drive belt damaged
+INC005,MCH-04,2026-01-09,Evening,Electrical,Power Failure,150,4,High,Closed,Unexpected power interruption
+INC006,MCH-02,2026-01-10,Night,Mechanical,Bearing Failure,180,3,High,Closed,Bearing replacement required
+INC007,MCH-03,2026-01-11,Morning,Maintenance,Delayed Maintenance,60,1,Medium,Closed,Routine maintenance was delayed
+INC008,MCH-04,2026-01-12,Evening,Operational,Material Jam,30,1,Low,Closed,Material blockage stopped production
+INC009,MCH-01,2026-01-13,Night,Electrical,Sensor Failure,100,2,Medium,Closed,Faulty sensor triggered shutdown
+INC010,MCH-02,2026-01-14,Morning,Mechanical,Bearing Failure,140,3,High,Closed,Repeated bearing damage

@@ -1,0 +1,7 @@
+﻿fastapi
+uvicorn[standard]
+pandas
+duckdb
+pydantic
+pytest
+httpx
